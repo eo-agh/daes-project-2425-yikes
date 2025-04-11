@@ -1,16 +1,37 @@
-# Data Analysis in Earth Sciences
+# Analiza czasów dojazdów karetek do miejscowości
 
-## Getting started
-### Create virtual environment
+---
 
-Make sure you have `conda-lock` installed. If you already have it, run the command below to create the environment based on `conda-lock.yml` file.
+## Opis projektu
 
-```
-conda-lock install --mamba -n daes-env conda-lock.yml
-```
+**Analiza poszczególnych czasów dojazdów karetek do miejscowości**  
+Projekt ma na celu ocenę dostępności ratownictwa medycznego na terenie województwa małopolskiego poprzez analizę czasów reakcji zespołów ratownictwa medycznego.
 
-### Activate environment
+---
 
-```
-mamba activate daes-env
-```
+## Cele
+
+- Określenie średniego czasu dojazdu karetek do poszczególnych miejscowości,
+- Identyfikacja obszarów z utrudnionym dostępem do opieki medycznej.
+
+---
+
+## Zakres analizy
+
+- **Obszar geograficzny:** województwo małopolskie  
+- **Zakres czasowy:** lata 2020–2023
+
+---
+
+## Wykorzystane narzędzia
+
+- **Język programowania:** Python
+
+---
+
+## 👥 Autorzy
+
+- **Marek Kostrz,**
+- **Krzysztof Bugajski,**
+- **Justyna Pudełko**
+
